@@ -1,0 +1,6 @@
+product_id,name,unit_price,stock
+P001,Laptop,1200.50,15
+P002,Mouse,25.00,200
+P003,Keyboard,75.99,0
+P004,Monitor,350.75,40
+P005,Charger,N/A,50
